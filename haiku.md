@@ -1,11 +1,15 @@
 # Hi Mom!
-Beauty is in the eye of the beholder.<br>
-Implicit is preferable to explicit.<br>
-Simple is boring.<br>
-my computer is<br>
-very quickly starting on fire<br>
-go get the backing soda<br>
-meadow gives birth<br>
-offensive adventuresome<br>
-carousel purring<br>
+
+
+this is not a good line
+Implicit is preferable to explicit.
+Simple is boring.
+my computer is
+very quickly starting on fire
+go get the backing soda
+meadow gives birth
+offensive adventuresome
+carousel purring
+
+
 # Goodbye Mom!
