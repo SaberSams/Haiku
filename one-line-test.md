@@ -1,2 +1,2 @@
 Hi mom
-replace me
+My plushie's name is Kotori. *Weeeeeeeeee!!*
