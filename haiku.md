@@ -1,5 +1,6 @@
 # Hi Mom!
-Beauty is in the eye of the beholder.
+
+this is not a good line
 Implicit is preferable to explicit.
 Simple is boring.
 my computer is
@@ -8,4 +9,5 @@ go get the backing soda
 meadow gives birth
 offensive adventuresome
 carousel purring
+
 # Goodbye Mom!
